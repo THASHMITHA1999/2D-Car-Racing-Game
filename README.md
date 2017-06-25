@@ -1,7 +1,7 @@
 # 2D-Car-Racing-Game
 A 2D car racing game in C using openGL interface, basic graphic functions.
 
-Using various basic graphics functions to establish our goal to implement a visual appealing ,single player simple 2D game, a car racing game, developed using openGL. In this game, there is a car and which moves forward in a road using up arrow key. The sides of the road on which the car is moving can be changed using keyboard side arrow keys and its speed can be decreased using down arrow key. The score keeps on increasing till the car moves forward. When the car encounters other obstacles present in the road, the game ends. At the end the score is displayed.
+Using various basic graphics functions to establish our goal to implement a visually appealing, single player simple 2D game, a car racing game, developed using openGL. In this game, there is a car and which moves forward in a road using up arrow key. The sides of the road on which the car is moving can be changed using keyboard side arrow keys and its speed can be decreased using down arrow key. The score keeps on increasing till the car moves forward. When the car encounters other obstacles present in the road, the game ends. At the end the score is displayed.
 
 This graphics is developed as a model which shows how to combine color, lighting effects, transformations of an object, viewing, increasing and decreasing the objects in real time with OpenGL.
 
